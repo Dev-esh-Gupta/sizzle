@@ -1,5 +1,3 @@
-Here's a well-organized version of your project description formatted as `README.md` for a GitHub repository:
-
 ```markdown
 # Sizzle - Restaurant Website
 
