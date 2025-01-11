@@ -1,4 +1,3 @@
-```markdown
 # Sizzle - Restaurant Website
 
 **Sizzle** is a dynamic and responsive restaurant website built using **Python** and **Django**. This project showcases a modern and user-friendly interface for a restaurant, providing features such as menu display, table booking, customer feedback, and more.
@@ -75,7 +74,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
 ### Key Enhancements:
 1. **Formatting**: Used Markdown syntax for better readability.
@@ -84,4 +82,3 @@ This project is licensed under the [MIT License](LICENSE).
 4. **Hyperlink**: Provided a clickable URL for local access.
 5. **License Reference**: Linked the license to its file.
 
-This structure is user-friendly and adheres to GitHub `README.md` best practices.
